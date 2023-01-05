@@ -18,4 +18,8 @@ there must be quotations around the strings when entering
 
 ### Addition Library
 
-- tabulate | Orders the table in a nice way
+mysql.connector: This is a library for connecting to MySQL databases from Python. It allows you to execute SQL queries, retrieve results, and perform various other database operations from within your Python scripts.
+
+mysql.connector.errorcode: This module contains error codes for various MySQL errors. These error codes are used to determine the type of error that occurred when connecting to a MySQL database.
+
+tabulate: This is a library for formatting and printing tabular data. It allows you to easily create tables with rows and columns and print them to the console.
